@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=Fluff663&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fluff663&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+</a>
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=apple,windows,cloudflare,vscode,python,git,docker" />
